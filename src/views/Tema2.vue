@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Tema 2
+      h1 Procedimientos, procesos y registros obligatorios en Buenas Prácticas Ganaderas para équidos
 
 </template>
 

@@ -1,17 +1,23 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name:
+      'Principios de las Buenas Prácticas Ganaderas en la gestión y manejo de équidos',
+    Description:
+      'El plan de implementación organiza de forma técnica y verificable todas las acciones necesarias para garantizar bienestar animal y Buenas Prácticas Ganaderas en équidos. Traduce la normativa en procedimientos aplicables, define responsabilidades, recursos y seguimiento, y fortalece sanidad, bioseguridad y manejo ético. Su aplicación mejora la operación, reduce riesgos y facilita auditorías y certificación del ICA.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,13 +37,66 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo:
+          'Plan de implementación de bienestar animal y buenas prácticas ganaderas en équidos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo:
+              'Implementación en sistemas de producción equina: concepto general',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Objetivo del plan',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Beneficios de implementar el plan',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Elementos del plan de implementación',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Objetivos específicos y metas',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Parámetros',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Metodologías de desarrollo y programación',
+            hash: 't_1_7',
+          },
+          {
+            numero: '1.8',
+            titulo:
+              'Cronograma para la implementación de BPG y Bienestar Animal en équidos',
+            hash: 't_1_8',
+          },
+          {
+            numero: '1.9',
+            titulo: 'Lista de chequeo',
+            hash: 't_1_9',
+          },
+          {
+            numero: '1.10',
+            titulo: 'Criterios de cumplimiento',
+            hash: 't_1_10',
+          },
+          {
+            numero: '1.11',
+            titulo: 'Documentación',
+            hash: 't_1_11',
           },
         ],
       },
@@ -45,14 +104,97 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo:
+          'Procedimientos, procesos y registros obligatorios en Buenas Prácticas Ganaderas para équidos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Proceso',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Procedimiento',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Registro',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Relación entre proceso, procedimiento y registro',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Protocolo',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Estructura de un protocolo',
+            hash: 't_2_6',
+          },
+          {
+            numero: '2.7',
+            titulo:
+              'Tipos de procedimientos en Buenas Prácticas Ganaderas para équidos',
+            hash: 't_2_7',
+          },
+          {
+            numero: '2.8',
+            titulo:
+              'Modelos ajustados a BPG para équidos - Resolución ICA 7953 de 2017',
+            hash: 't_2_8',
+          },
+          {
+            numero: '2.9',
+            titulo: 'Características de los procedimientos en BPG para équidos',
+            hash: 't_2_9',
+          },
+          {
+            numero: '2.10',
+            titulo: 'Concepto y características de los registros',
+            hash: 't_2_10',
+          },
+          {
+            numero: '2.11',
+            titulo: 'Ejemplos de registros aplicados a BPG-équidos',
+            hash: 't_2_11',
+          },
+          {
+            numero: '2.12',
+            titulo: 'Tipos de registros',
+            hash: 't_2_12',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo:
+          'Auditoría de certificación en Buenas Prácticas Ganaderas (BPG) para équidos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Requisitos para solicitar la auditoría del ICA',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Ruta hacia la certificación BPG para équidos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Concepto de la certificación',
+            hash: 't_3_3',
+          },
+        ],
       },
     ],
     subMenu: [
