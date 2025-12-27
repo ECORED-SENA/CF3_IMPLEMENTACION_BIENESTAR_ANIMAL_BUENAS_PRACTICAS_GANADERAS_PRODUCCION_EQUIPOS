@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="110" viewBox="0 0 106 110">
+  <g id="boton-x" transform="translate(-0.051 0.227)">
+    <ellipse id="Elipse_12457" data-name="Elipse 12457" cx="53" cy="55" rx="53" ry="55" transform="translate(0.051 -0.227)" fill="#e21b1b"/>
+    <path id="Trazado_1249233" data-name="Trazado 1249233" d="M223.883,172.054l-29.118-29.118-44.517,46.155,28.823,28.823A52.368,52.368,0,0,0,223.883,172.054Z" transform="translate(-118.936 -108.887)" fill="#c40606"/>
+    <g id="Grupo_1214066" data-name="Grupo 1214066" transform="translate(29.036 30.547)">
+      <path id="Trazado_1249234" data-name="Trazado 1249234" d="M184.279,185.532a4.081,4.081,0,0,1-2.893-1.2l-39.641-39.643a4.09,4.09,0,1,1,5.784-5.784l39.643,39.643a4.09,4.09,0,0,1-2.893,6.982Z" transform="translate(-140.544 -137.708)" fill="#fff"/>
+      <path id="Trazado_1249235" data-name="Trazado 1249235" d="M144.63,185.53a4.09,4.09,0,0,1-2.893-6.982L181.38,138.9a4.09,4.09,0,0,1,5.784,5.784l-39.641,39.643A4.078,4.078,0,0,1,144.63,185.53Z" transform="translate(-140.538 -137.706)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
