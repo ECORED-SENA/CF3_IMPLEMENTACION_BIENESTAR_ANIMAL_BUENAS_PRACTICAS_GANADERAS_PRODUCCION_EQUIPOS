@@ -97,7 +97,7 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Disponer de un Plan Sanitario firmado por médico veterinario (Art. 7.1).
+                  p.mb-0 Disponer de un Plan Sanitario firmado por médico veterinario (art. 7.1).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -122,7 +122,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Infraestructura adecuada")
             .col-12
-              p Cumplimiento de los requisitos del Art. 5:
+              p Cumplimiento de los requisitos del art. 5:
               ul.lista-ul.mb-0
                 li.d-flex
                   i.fa-solid.fa-circle-right
@@ -167,7 +167,7 @@
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Seguridad ocupacional (Art. 13).
+                  p.mb-0 Seguridad ocupacional (art. 13).
           .row(titulo="Solicitud formal al ICA")
             .col-12
               p.mb-0 Presentar la solicitud por escrito en el formato y canal establecidos por la entidad.
@@ -417,7 +417,7 @@
                         p.text-white.mb-0 #[b Anexo. Listado de puntos de control y criterios de cumplimiento]
                         p.text-white.mb-0 Se invita a consultar el documento Listado de Puntos de Control y Criterios de Cumplimiento - Resolución ICA 00007953 de 2017, el cual resume los requisitos sanitarios, de bioseguridad, bienestar animal y manejo de insumos para predios con équidos. Ofrece criterios claros y normativos útiles para el cumplimiento y la certificación oficial.
                   .col-auto
-                    a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_listado_de_puntos_de_control_y_criterios_de_cumplimiento.xlsx')" target="_blank")
+                    a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_listado_de_puntos_de_control_y_criterios_de_cumplimiento.xlsx')" target="_blank" type="application/pdf")
                       span Realizar
                       i.fas.fa-download
 

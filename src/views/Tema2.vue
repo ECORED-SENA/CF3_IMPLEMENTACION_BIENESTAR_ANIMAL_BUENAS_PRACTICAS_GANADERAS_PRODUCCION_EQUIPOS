@@ -93,7 +93,7 @@
                     p.mb-0 Herramientas, materiales o insumos necesarios.
           .row.align-items-center
             .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-              p Según el Art. 5 y 6 de la Resolución ICA 7953 de 2017, los procedimientos deben estar documentados, disponibles y ser conocidos por todo el personal. Se aplican en áreas como:
+              p Según los arts. 5 y 6 de la Resolución ICA 7953 de 2017, los procedimientos deben estar documentados, disponibles y ser conocidos por todo el personal. Se aplican en áreas como:
               .row.justify-content-center.mb-3
                 .col-lg-auto.mb-4.mb-lg-0.pe-lg-0
                   figure
@@ -106,31 +106,31 @@
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Limpieza y desinfección de instalaciones (Art. 6.2 - 6.3).
+                            p.mb-0 Limpieza y desinfección de instalaciones (arts. 6.2 - 6.3).
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Cuarentena de animales nuevos (Art. 5.3).
+                            p.mb-0 Cuarentena de animales nuevos (art. 5.3).
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Manejo de estiércol (Art. 6.4).
+                            p.mb-0 Manejo de estiércol (art. 6.4).
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Uso y almacenamiento de medicamentos (Art. 8 y 9).
+                            p.mb-0 Uso y almacenamiento de medicamentos (arts. 8 y 9).
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Control de plagas (Art. 6.5).
+                            p.mb-0 Control de plagas (art. 6.5).
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Manejo de alimentos, agua y condiciones ambientales (Art. 10 y 12).
+                            p.mb-0 Manejo de alimentos, agua y condiciones ambientales (arts. 10 y 12).
                           li.d-flex
                             i.fa-solid.fa-circle-right
                             |
-                            p.mb-0 Entrenamiento y jornadas de trabajo (Art. 12.6).
+                            p.mb-0 Entrenamiento y jornadas de trabajo (art. 12.6).
                           li.d-flex.mb-0
                             i.fa-solid.fa-circle-right
                             |
@@ -190,15 +190,15 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Sanidad: vacunas, diagnósticos, tratamientos, mortalidades (Art. 7.4 y 9.5).
+                  p.mb-0 Sanidad: vacunas, diagnósticos, tratamientos, mortalidades (arts. 7.4 y 9.5).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Bioseguridad: ingreso de animales, personas y vehículos (Art. 7.2).
+                  p.mb-0 Bioseguridad: ingreso de animales, personas y vehículos (art. 7.2).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Medicamentos: dosis, fechas, lotes y tiempos de retiro (Art. 9.5).
+                  p.mb-0 Medicamentos: dosis, fechas, lotes y tiempos de retiro (art. 9.5).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -206,7 +206,7 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Bienestar animal: condición corporal, trabajo diario y comportamiento (Art. 12.6).
+                  p.mb-0 Bienestar animal: condición corporal, trabajo diario y comportamiento (art. 12.6).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -214,7 +214,7 @@
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Inventarios: medicamentos, alimentos e insumos veterinarios (Art. 8.4).
+                  p.mb-0 Inventarios: medicamentos, alimentos e insumos veterinarios (art. 8.4).
         p.mb-0 La ausencia de registros es una no conformidad mayor. En el caso de medicamentos, puede ser clasificada como no conformidad fundamental.
     Separador
     #t_2_4
@@ -269,7 +269,7 @@
               li.d-flex
                 i.fa-solid.fa-circle-right
                 |
-                p.mb-0 Cuarentena de animales recién ingresados (Art. 5.3).
+                p.mb-0 Cuarentena de animales recién ingresados (art. 5.3).
               li.d-flex
                 i.fa-solid.fa-circle-right
                 |
@@ -482,15 +482,15 @@
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
-                        p.mb-0 Personal capacitado (Art. 13).
+                        p.mb-0 Personal capacitado (art. 13).
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
-                        p.mb-0 Infraestructura adecuada (Art. 5 y 12).
+                        p.mb-0 Infraestructura adecuada (art. 5 y 12).
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
-                        p.mb-0 Agua potable permanente (Art. 10 y 12.1).
+                        p.mb-0 Agua potable permanente (art. 10 y 12.1).
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
@@ -519,7 +519,7 @@
                         p.mb-0 Registro: alimentación, trabajo, bienestar e incidencias.
                 .row(titulo="Procedimiento del plan sanitario para équidos")
                   .col-12
-                    p Alcance: equinos de todas las categorías (Art. 7 y 9).
+                    p Alcance: equinos de todas las categorías (arts. 7 y 9).
                     p #[b Componentes mínimos:]
                     ul.lista-ul
                       li.d-flex
@@ -554,11 +554,11 @@
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
-                        p.mb-0 Aislamiento: traslado al área de enfermería (Art. 5.12).
+                        p.mb-0 Aislamiento: traslado al área de enfermería (art. 5.12).
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
-                        p.mb-0 Diagnóstico y tratamiento: prescripción veterinaria (Art. 9).
+                        p.mb-0 Diagnóstico y tratamiento: prescripción veterinaria (art. 9).
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
@@ -569,7 +569,7 @@
                         p.mb-0 Registro: diagnóstico, tratamiento, evolución y destino.
                 .row(titulo="Procedimiento para la compra e ingreso de nuevos équidos")
                   .col-12
-                    p Alcance: toda adquisición de animales nuevos (Art. 5.4).
+                    p Alcance: toda adquisición de animales nuevos (art. 5.4).
                     p #[b Etapas:]
                     ul.lista-ul
                       li.d-flex
@@ -587,7 +587,7 @@
                       li.d-flex
                         i.fa-solid.fa-circle-right
                         |
-                        p.mb-0 Cuarentena: mínimo 21 días (Art. 5.3).
+                        p.mb-0 Cuarentena: mínimo 21 días (art. 5.3).
                       li.d-flex.mb-0
                         i.fa-solid.fa-circle-right
                         |
@@ -597,7 +597,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Procedimiento para el registro de ingreso de personas, animales y vehículos")
             .col-12
-              p Alcance: todo ingreso al predio (Art. 7.2 y 7.3).
+              p Alcance: todo ingreso al predio (art. 7.2 y 7.3).
               p #[b Elementos clave:]
               ul.lista-ul
                 li.d-flex
@@ -622,7 +622,7 @@
                   p.mb-0 Registro de salida: hora y observaciones.
           .row(titulo="Procedimiento de cuarentena para équidos")
             .col-12
-              p Alcance: animales nuevos o sospechosos de enfermedad (Art. 5.3).
+              p Alcance: animales nuevos o sospechosos de enfermedad (art. 5.3).
               p #[b Pasos:]
               ul.lista-ul
                 li.d-flex
@@ -639,7 +639,7 @@
                   p.mb-0 Salida: evaluación final y autorización escrita del veterinario.
           .row(titulo="Procedimientos de limpieza y desinfección de instalaciones, equipos e implementos")
             .col-12
-              p Alcance: pesebreras, corrales, enfermería, zonas de alimentación y herramientas (Art. 6.2 a 6.5).
+              p Alcance: pesebreras, corrales, enfermería, zonas de alimentación y herramientas (arts. 6.2 a 6.5).
               p #[b Componentes:]
               ul.lista-ul
                 li.d-flex
@@ -664,7 +664,7 @@
                   p.mb-0 Registros: planillas con fecha y responsable.
           .row(titulo="Procedimientos para el uso y manejo de medicamentos veterinarios y residuos")
             .col-12
-              p Alcance: productos veterinarios y biológicos (Art. 8 y 9).
+              p Alcance: productos veterinarios y biológicos (arts. 8 y 9).
               p #[b Elementos clave:]
               ul.lista-ul
                 li.d-flex
@@ -678,11 +678,11 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Registro de tratamientos: completo y actualizado (Art. 9.5).
+                  p.mb-0 Registro de tratamientos: completo y actualizado (art. 9.5).
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Manejo de residuos: clasificación y disposición adecuada; cumplimiento de normativa ambiental (Art. 9.7 y 9.8).
+                  p.mb-0 Manejo de residuos: clasificación y disposición adecuada; cumplimiento de normativa ambiental (arts. 9.7 y 9.8).
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img10.png', style="width: 380px").m-auto
@@ -765,7 +765,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Limpieza y desinfección regular de áreas y herramientas.
-              p.mb-0 Referencia normativa: Artículos 5, 7 y 8 de la Resolución 7953 de 2017.
+              p.mb-0 Referencia normativa: artículos 5, 7 y 8 de la Resolución 7953 de 2017.
           .row(titulo="Protocolo de limpieza y desinfección de instalaciones")
             .col-12
               p #[b Aplica a:]
@@ -808,7 +808,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Formatos de registro.
-              p.mb-0 #[b Referencia normativa: Artículos 6.2, 6.3, 6.4 y 8.2.]
+              p.mb-0 #[b Referencia normativa: artículos 6.2, 6.3, 6.4 y 8.2.]
           .row(titulo="Protocolo de manejo de residuos y mortalidades")
             .col-12
               p #[b Incluye:]
@@ -825,7 +825,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Manejo adecuado de estiércol, camas contaminadas y cadáveres.
-              p.mb-0 Referencia normativa: Artículos 6.4, 9.7 y 9.8.
+              p.mb-0 Referencia normativa: artículos 6.4, 9.7 y 9.8.
           .row(titulo="Debe contemplar")
             .col-12
               p #[b Incluye:]
@@ -846,7 +846,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Registro individual de tratamientos, diagnósticos y vacunas.
-              p.mb-0 Referencia normativa: Artículos 7 y 9.
+              p.mb-0 Referencia normativa: artículos 7 y 9.
           .row(titulo="Protocolo de manejo de cuarentena")
             .col-12
               p #[b Aplicación:]
@@ -875,7 +875,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Evaluación final del médico veterinario para reintegración.
-              p.mb-0 Referencia normativa: Artículo 5.3.
+              p.mb-0 Referencia normativa: artículo 5.3.
           .row(titulo="Protocolo de bienestar animal")
             .col-12
               p #[b Debe garantizar:]
@@ -905,7 +905,7 @@
                   |
                   p.mb-0 Regulación del trabajo: máximo 8 horas diarias o 60 kilómetros de recorrido.
               p Incluye: registros de condición corporal, revisión de cascos, trabajo diario, rutinas de ejercicio y signos de dolor.
-              p.mb-0 Referencia normativa: Artículo 12 de la Resolución 7953 de 2017 y Resolución 136 de 2020.
+              p.mb-0 Referencia normativa: artículo 12 de la Resolución 7953 de 2017 y Resolución 136 de 2020.
     .row
       .col-12
         .p-4.bg-c18
@@ -1013,7 +1013,7 @@
                     img(src='@/assets/curso/tema2/img16.png', style="width: 400px").m-auto
                 .col-lg-7
                   p #[b Orientación al bienestar animal]
-                  p Todo procedimiento debe contribuir al cumplimiento de los principios de bienestar animal (Art. 12.1 a 12.6, Resolución ICA 7953 de 2017). Esto incluye:
+                  p Todo procedimiento debe contribuir al cumplimiento de los principios de bienestar animal (arts. 12.1 a 12.6, Resolución ICA 7953 de 2017). Esto incluye:
                   ul.lista-ul
                     li.d-flex
                       i.fa-solid.fa-circle-right
@@ -1196,7 +1196,7 @@
           img(src='@/assets/curso/tema2/img19.png', style="width: 380px").m-auto
       .col-lg-8(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row(titulo="Registro de aplicación de medicamentos veterinarios (Art. 9.5)")
+          .row(titulo="Registro de aplicación de medicamentos veterinarios (art. 9.5)")
             .col-12
               p Contenido mínimo:
               ul.lista-ul.mb-0
@@ -1232,7 +1232,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Observaciones.
-          .row(titulo="Registro de control de plagas y roedores (Art. 6.5)")
+          .row(titulo="Registro de control de plagas y roedores (art. 6.5)")
             .col-12
               p Incluye:
               ul.lista-ul.mb-0
@@ -1296,7 +1296,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Fechas de entrada y salida.
-          .row(titulo="Registro de ingreso de personas y vehículos (Art. 7.2 y 7.3)")
+          .row(titulo="Registro de ingreso de personas y vehículos (arts. 7.2 y 7.3)")
             .col-12
               p Debe contener:
               ul.lista-ul.mb-0
@@ -1339,7 +1339,7 @@
     .row.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row(titulo="Registro de capacitación del personal (Art. 13)")
+          .row(titulo="Registro de capacitación del personal (art. 13)")
             .col-12
               p Incluye:
               ul.lista-ul.mb-0
@@ -1425,7 +1425,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Observaciones de bienestar.
-          .row(titulo="Registro de limpieza y desinfección de instalaciones (Art. 6.2 y 6.3)")
+          .row(titulo="Registro de limpieza y desinfección de instalaciones (arts. 6.2 y 6.3)")
             .col-12
               ul.lista-ul.mb-0
                 li.d-flex
@@ -1521,7 +1521,7 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Registro de inventario de alimentos (Art. 8.4).
+                  p.mb-0 Registro de inventario de alimentos (art. 8.4).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |

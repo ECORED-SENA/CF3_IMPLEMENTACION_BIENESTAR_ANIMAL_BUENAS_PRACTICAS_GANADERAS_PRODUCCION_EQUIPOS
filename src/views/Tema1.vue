@@ -1512,7 +1512,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img57.png', style="width: 400px").m-auto
                 .col-lg-5
-                  p #[b Celebrate your failures]
+                  p #[b Contenido del plan]
                   ul.lista-ul.mb-0
                     li.d-flex
                       i.fa-solid.fa-circle-right
@@ -2648,7 +2648,7 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Tratamientos veterinarios (Art. 9 - Resolución 7953).
+                  p.mb-0 Tratamientos veterinarios (art. 9 - Resolución 7953).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -2656,14 +2656,14 @@
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Mortalidades, causa probable o confirmada (Art. 7.4)Reportes de laboratorio o necropsias cuando corresponda.
+                  p.mb-0 Mortalidades, causa probable o confirmada (art. 7.4)Reportes de laboratorio o necropsias cuando corresponda.
           .row(titulo="B. Documentos de trazabilidad y movilización")
             .col-12
               ul.lista-ul.mb-0
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Identificación individual de todos los équidos (Art. 11).
+                  p.mb-0 Identificación individual de todos los équidos (art. 11).
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
@@ -2674,15 +2674,15 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Plan sanitario firmado por Médico Veterinario o MVZ (Art. 7.1).
+                  p.mb-0 Plan sanitario firmado por médico veterinario o MVZ (art. 7.1).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Registro completo de tratamientos y medicamentos aplicados (Art. 9.5).
+                  p.mb-0 Registro completo de tratamientos y medicamentos aplicados (art. 9.5).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Inventario actualizado de medicamentos veterinarios (Art. 8.4 y Art. 9).
+                  p.mb-0 Inventario actualizado de medicamentos veterinarios (art. 8.4 y art. 9).
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
@@ -2706,22 +2706,22 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Protocolo de cuarentena (Art. 5.3).
+                  p.mb-0 Protocolo de cuarentena (art. 5.3).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Registro de desinfección de vehículos (cuando aplique - Art. 7.3).
+                  p.mb-0 Registro de desinfección de vehículos (cuando aplique - art. 7.3).
           .row(titulo="E. Documentación de bienestar animal")
             .col-12
               ul.lista-ul.mb-0
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Evidencia del cumplimiento de espacios mínimos por peso (Art. 5.7).
+                  p.mb-0 Evidencia del cumplimiento de espacios mínimos por peso (art. 5.7).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Registros de entrenamiento, carga de trabajo y tiempos de descanso (Art. 12.6).
+                  p.mb-0 Registros de entrenamiento, carga de trabajo y tiempos de descanso (art. 12.6).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -2732,11 +2732,11 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Registro de capacitación anual (Art. 13.6).
+                  p.mb-0 Registro de capacitación anual (art. 13.6).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Certificado médico anual del personal (Art. 13.1).
+                  p.mb-0 Certificado médico anual del personal (art. 13.1).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -2744,7 +2744,7 @@
                 li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Afiliación del personal a seguridad social (Art. 13.5).
+                  p.mb-0 Afiliación del personal a seguridad social (art. 13.5).
     .row.mb-4.ms-0
       .col-auto.bg-c7(data-aos="fade-left")
         .row.align-items-end

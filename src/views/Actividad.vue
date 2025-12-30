@@ -317,22 +317,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: '100%',
+              texto: '100 %',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '95%',
+              texto: '95 %',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '90%',
+              texto: '90 %',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '85%',
+              texto: '85 %',
               esCorrecta: false,
             },
           ],
@@ -426,7 +426,7 @@ export default {
         {
           id: 15,
           texto:
-            'Un predio que cumpla el 80% de criterios fundamentales puede ser certificado.',
+            'Un predio que cumpla el 80 % de criterios fundamentales puede ser certificado.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
