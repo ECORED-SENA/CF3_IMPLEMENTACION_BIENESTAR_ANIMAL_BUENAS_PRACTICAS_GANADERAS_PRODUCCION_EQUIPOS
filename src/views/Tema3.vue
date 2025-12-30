@@ -417,7 +417,7 @@
                         p.text-white.mb-0 #[b Anexo. Listado de puntos de control y criterios de cumplimiento]
                         p.text-white.mb-0 Se invita a consultar el documento Listado de Puntos de Control y Criterios de Cumplimiento - Resolución ICA 00007953 de 2017, el cual resume los requisitos sanitarios, de bioseguridad, bienestar animal y manejo de insumos para predios con équidos. Ofrece criterios claros y normativos útiles para el cumplimiento y la certificación oficial.
                   .col-auto
-                    a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_listado_de_puntos_de_control_y_criterios_de_cumplimiento.xlsx')" target="_blank" type="application/pdf")
+                    a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_Listado_puntos_control_y_criterios_cumplimiento.xlsx')" target="_blank")
                       span Realizar
                       i.fas.fa-download
 
