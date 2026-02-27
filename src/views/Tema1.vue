@@ -20,7 +20,7 @@
             .row.h-100.align-items-center
               .col-12
                 .p-4
-                  p.mb-0 Además de orientar la operación, este instrumento traduce los requisitos legales en procedimientos claros y aplicables en el campo. Esto comprende la implementación de prácticas obligatorias relacionadas con sanidad, manejo hídrico, infraestructura, comportamiento animal, transporte, interacción humano-équido y manejo documental. La estructura del plan facilita la identificación de responsabilidades, la definición de recursos, la organización de cronogramas y la evaluación permanente del cumplimiento de los estándares establecidos por el ICA.
+                  p.mb-0 Su función es traducir la normativa vigente en acciones concretas dentro de fincas, pesebreras, criaderos o centros ecuestres. En Colombia, este plan permite demostrar el cumplimiento de la Resolución ICA 7953 de 2017 (BPG Equinos), la Resolución ICA 136 de 2020 (Bienestar Animal por especie), la metodología oficial del ICA para evaluación de bienestar en équidos, así como la normativa sobre transporte y manejo humanitario.
         p.mb-0 De esta manera, los requisitos legales se convierten en procedimientos técnicos, medibles y aplicables en campo, abarcando aspectos esenciales como alimentación, hidratación, sanidad, bioseguridad, alojamiento, comportamiento, trabajo, descanso, movilización, interacción humano-animal y manejo de residuos. Su correcta ejecución garantiza un sistema de manejo seguro, eficiente, ético y centrado en la protección del bienestar físico y emocional de caballos, asnos y mulas.
     Separador
     #t_1_1
@@ -856,8 +856,8 @@
             table
               thead
                 tr
-                  th(width="30%") Norma o estándar
-                  th Objetivo alineado
+                  th(width="30%") Parámetro
+                  th Criterio técnico recomendado
               tbody.bg-white
                 tr
                   th Condición corporal (BCS)
@@ -1789,7 +1789,7 @@
       table
         thead
           tr
-            th(width="30%") Norma o estándar
+            th(width="30%") Fase
             th(width="30%") Duración estimada
             th Objetivo
         tbody.bg-white
@@ -2315,6 +2315,15 @@
     .row.bg-c14.mb-4
       .col-12
         .px-5
+          .row.mb-4.ms-0
+            .col-auto.bg-c7(data-aos="fade-left")
+              .row.align-items-end
+                .col-auto.px-0
+                  figure
+                    img(src='@/assets/curso/tema1/img3.png', alt='', style='width: 40px; position: relative; left: 5px').m-auto
+                .col.ps-0
+                  h3.mb-2.ms-3 Organización por áreas
+          p.mb-4(data-aos="fade-right") Para facilitar su aplicación, las listas de chequeo deben organizarse por componentes temáticos:
           .row.align-items-center.mb-5
             .col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
               figure
@@ -2392,8 +2401,8 @@
               .row.bg-c15
                 .col-12
                   .p-4
-                    p.text-center #[b Cumple]
-                    p.mb-0 El requisito se cumple completamente conforme a la normativa.
+                    p.text-center #[b Diagramas circulares]
+                    p.mb-0 Distribución de cumplimiento por área.
             .col-md-6.col-lg-4.p-4
               .row
                 .col-12.px-0
@@ -2543,7 +2552,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img3.png', alt='', style='width: 40px; position: relative; left: 5px').m-auto
                 .col.ps-0
-                  h3.mb-2.ms-3 Clasificación de los puntos de control
+                  h3.mb-2.ms-3 Sistema de evaluación por ítem
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
@@ -2631,6 +2640,7 @@
               img(src='@/assets/curso/tema1/img3.png', alt='', style='width: 40px; position: relative; left: 5px').m-auto
           .col.ps-0
             h3.mb-2.ms-3 Registros obligatorios en la unidad productiva de équidos
+    p.mb-4 Los registros deben mantenerse organizados, actualizados y disponibles, en formato físico o digital, con respaldo en papel para su presentación durante la auditoría oficial.
     .row.align-items-center
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

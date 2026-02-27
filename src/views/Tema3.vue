@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Auditoría de certificación en Buenas Prácticas Ganaderas (BPG) para équidos
+      h1 Auditoría de certificación en buenas prácticas ganaderas (BPG) para équidos
     .row.justify-content-center
       .col-lg-auto.mb-4.mb-lg-0.pe-lg-0
         figure
@@ -22,7 +22,7 @@
     .row.align-items-center.mb-4
       .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
         p Antes de solicitar una auditoría de certificación en Buenas Prácticas Ganaderas ante el ICA, el predio debe cumplir con una serie de condiciones previas que garanticen su preparación técnica, documental y operativa. Estos requisitos aseguran que el proceso de auditoría pueda realizarse de forma efectiva y objetiva.
-        p.mb-0 en encabezados internos, siguiendo exactamente el estilo que vienes usando:
+        p.mb-0 En encabezados internos, siguiendo exactamente el estilo que vienes usando:
       .col-lg-auto.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.svg', style="width: 150px").m-auto
@@ -403,7 +403,7 @@
                         i.fa-solid.fa-circle-right
                         |
                         p.mb-0 Cumple mínimo el 60% de los criterios menores.
-                    p.mb-0 En este caso, el ICA emite el Certificado de Buenas Prácticas Ganaderas para Predios de Producción Primaria de Équidos, con una vigencia de tres (3) años, conforme a la normativa vigente.
+                    p.mb-0 En este caso, el ICA emite el certificado de buenas prácticas ganaderas para predios de producción primaria de équidos, con una vigencia de tres (3) años, conforme a la normativa vigente.
           .row
             .col-12
               .p-4.bg-c16

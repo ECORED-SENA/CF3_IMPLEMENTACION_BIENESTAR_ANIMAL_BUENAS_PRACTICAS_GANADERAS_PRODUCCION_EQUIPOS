@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Procedimientos, procesos y registros obligatorios en Buenas Prácticas Ganaderas para équidos
+      h1 Procedimientos, procesos y registros obligatorios en buenas prácticas ganaderas para équidos
     .row.justify-content-center
       .col-lg-auto.mb-4.mb-lg-0.pe-lg-0
         figure
@@ -432,7 +432,7 @@
           Separador
           #t_2_7
           .titulo-segundo.color-acento-contenido
-            h2 2.7 Tipos de procedimientos en Buenas Prácticas Ganaderas para équidos
+            h2 2.7 Tipos de procedimientos en buenas prácticas ganaderas para équidos
           .row.align-items-center.mb-4
             .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
               p.mb-0 La implementación de las Buenas Prácticas Ganaderas (BPG) para équidos, conforme a la Resolución ICA 00007953 de 2017, exige la adopción de procedimientos escritos que estandaricen las actividades del predio, protejan la sanidad, la bioseguridad, la trazabilidad y garanticen el bienestar animal. Cada procedimiento debe:
@@ -1336,7 +1336,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Firma.
-    .row.align-items-center.mb-5
+    .row.align-items-center
       .col-lg-8(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Registro de capacitación del personal (art. 13)")
@@ -1455,14 +1455,10 @@
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img20.png', style="width: 380px").m-auto
-    .row.mb-4.ms-0
-      .col-auto.bg-c7(data-aos="fade-left")
-        .row.align-items-end
-          .col-auto.px-0
-            figure
-              img(src='@/assets/curso/tema1/img3.png', alt='', style='width: 40px; position: relative; left: 5px').m-auto
-          .col.ps-0
-            h3.mb-2.ms-3 Tipos de registros
+    Separador
+    #t_2_12
+    .titulo-segundo.color-acento-contenido
+      h2 2.12 Tipos de registros
     .row.align-items-center
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
         figure

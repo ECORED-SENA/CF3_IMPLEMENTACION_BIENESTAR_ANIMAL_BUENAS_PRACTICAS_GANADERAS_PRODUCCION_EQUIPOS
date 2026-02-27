@@ -105,7 +105,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          'Procedimientos, procesos y registros obligatorios en Buenas Prácticas Ganaderas para équidos',
+          'Procedimientos, procesos y registros obligatorios en buenas prácticas ganaderas para équidos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -141,7 +141,7 @@ export default {
           {
             numero: '2.7',
             titulo:
-              'Tipos de procedimientos en Buenas Prácticas Ganaderas para équidos',
+              'Tipos de procedimientos en buenas prácticas ganaderas para équidos',
             hash: 't_2_7',
           },
           {
