@@ -2667,6 +2667,162 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Mortalidades, causa probable o confirmada (art. 7.4)Reportes de laboratorio o necropsias cuando corresponda.
+          .row(titulo="B. Bioseguridad")
+            .col-12
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Ingreso y salida de personas, vehículos y animales (art. 7.2).
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Limpieza y desinfección de instalaciones.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Desinfección de equipos, monturas y herramientas.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Control de plagas y roedores (art. 6.5).
+                li.d-flex.mb-0
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Temperatura diaria de almacenamiento de biológicos (art. 9.9).
+          .row(titulo="C. Manejo y bienestar animal")
+            .col-12
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Evaluación periódica de condición corporal.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Revisión y recorte de cascos (herrado).
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Registros de entrenamiento, ejercicio y jornadas de trabajo (máx. 8 h o 60 km - art. 12.6).
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Evaluación de comportamiento y signos de estrés.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Registro de suministro de agua y alimento.
+                li.d-flex.mb-0
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Aplicación del checklist de las Cinco Libertades.
+      .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/tema1/img84.png', style="width: 300px").m-auto
+    .row.align-items-center.mb-5
+      .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/tema1/img85.png', style="width: 300px").m-auto
+      .col-lg-9.mb-4.mb-lg-0(data-aos="fade-left")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row(titulo="D. Manejo de instalaciones")
+            .col-12
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Limpieza de pesebreras, corrales y áreas de confinamiento.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Reposición de cama y revisión de ventilación.
+                li.d-flex.mb-0
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Inspección de cercas, broches, estructuras y zonas de riesgo.
+          .row(titulo="E. Registros administrativos")
+            .col-12
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Ingreso y salida de animales (movilización interna).
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Inventario de medicamentos e insumos agropecuarios.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Inventario de alimentos y su almacenamiento.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Control de existencias y fechas de vencimiento.
+                li.d-flex.mb-0
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Registro de capacitaciones del personal.
+          .row(titulo="F. Registro individual por animal (art. 11 - Identificación y trazabilidad)")
+            .col-12
+              p Cada equino debe contar con una ficha individual que contenga:
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Identificación única (microchip, hierro, tatuaje u otro autorizado).
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Fecha de nacimiento (o estimada), sexo, raza y señas particulares.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Historial sanitario.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Historial de tratamientos veterinarios.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Historial de herrado y recorte de cascos.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Actividad productiva o tipo de uso.
+                li.d-flex.mb-0
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Registros de movilización dentro o fuera del predio.
+    .row.mb-4.ms-0
+      .col-auto.bg-c7(data-aos="fade-left")
+        .row.align-items-end
+          .col-auto.px-0
+            figure
+              img(src='@/assets/curso/tema1/img3.png', alt='', style='width: 40px; position: relative; left: 5px').m-auto
+          .col.ps-0
+            h3.mb-2.ms-3 Documentación exigida para la certificación BPG en équidos (ICA)
+    p.mb-4 Al solicitar la auditoría para certificación, el productor debe tener disponible la siguiente documentación técnica:
+    .row.align-items-center
+      .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+          .row(titulo="A. Documentación predial")
+            .col-12
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Certificado de uso del suelo para actividad pecuaria con équidos.
+                li.d-flex
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Registro del predio como predio pecuario ante el ICA.
+                li.d-flex.mb-0
+                  i.fa-solid.fa-circle-right
+                  |
+                  p.mb-0 Registro sanitario del predio (si aplica según actividad).
           .row(titulo="B. Documentos de trazabilidad y movilización")
             .col-12
               ul.lista-ul.mb-0
@@ -2684,7 +2840,7 @@
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
-                  p.mb-0 Plan sanitario firmado por médico veterinario o MVZ (art. 7.1).
+                  p.mb-0 Plan sanitario firmado por Médico Veterinario o MVZ (art. 7.1).
                 li.d-flex
                   i.fa-solid.fa-circle-right
                   |
@@ -2699,11 +2855,11 @@
                   p.mb-0 Registros de desparasitación y control de plagas.
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img84.png', style="width: 300px").m-auto
+          img(src='@/assets/curso/tema2/img4.png', style="width: 300px").m-auto
     .row.align-items-center.mb-5
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema1/img85.png', style="width: 300px").m-auto
+          img(src='@/assets/curso/tema2/img9.png', style="width: 300px").m-auto
       .col-lg-9.mb-4.mb-lg-0(data-aos="fade-left")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="D. Documentación de bioseguridad")
@@ -2717,7 +2873,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Protocolo de cuarentena (art. 5.3).
-                li.d-flex
+                li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Registro de desinfección de vehículos (cuando aplique - art. 7.3).
@@ -2732,7 +2888,7 @@
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Registros de entrenamiento, carga de trabajo y tiempos de descanso (art. 12.6).
-                li.d-flex
+                li.d-flex.mb-0
                   i.fa-solid.fa-circle-right
                   |
                   p.mb-0 Evaluaciones de comportamiento y condiciones ambientales.
